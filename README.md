@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in HTML where JavaScript attempts to modify an element that does not exist in the DOM.  The script fails silently, which makes it hard to debug. The solution shows how to properly handle this scenario using error handling and checking for element existence.
